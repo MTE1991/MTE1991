@@ -39,12 +39,12 @@
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
 
 
-# My activities in GitHub
+# My Activities in GitHub
 
+## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=MTE1991)](https://github.com/ryo-ma/github-profile-trophy)
-<hr>
 
+## Statistics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MTE1991&show_icons=true&locale=en&layout=compact" alt="MTE1991" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MTE1991&show_icons=true&locale=en" alt="MTE1991" /></p>
-<hr>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MTE1991&" alt="MTE1991" /></p>
