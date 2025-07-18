@@ -13,7 +13,7 @@
 > "Time is one of the few things that man cannot influence. It gives each of us a beginning and an end. And this makes us question how we use what comes between. We all have a desire to create something that will show we were here, and did something of value. To create something timeless." <br>― Ferdinand Porsche
 
 
-## Skills and tools
+## Skills and Tools
 
 ### 🧠 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
